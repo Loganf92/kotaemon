@@ -2,5 +2,5 @@ projectKey=Loganf92_kotaemon_bd33db2c-8cc9-40a2-8167-1b3215b64e84
 serverUrl=http://localhost:9000
 serverVersion=10.6.0.92116
 dashboardUrl=http://localhost:9000/dashboard?id=Loganf92_kotaemon_bd33db2c-8cc9-40a2-8167-1b3215b64e84
-ceTaskId=604dee8a-8305-41f3-a52d-312dee893e05
-ceTaskUrl=http://localhost:9000/api/ce/task?id=604dee8a-8305-41f3-a52d-312dee893e05
+ceTaskId=f1dd8a0e-8f15-41c7-a43b-0ef67d24014e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=f1dd8a0e-8f15-41c7-a43b-0ef67d24014e
